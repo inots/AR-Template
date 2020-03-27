@@ -9,9 +9,9 @@ Inspired/Following tutorials from course by iBrent on YouTube
 
 ## Scenes
 
-# ship
+### ship
 Description: Sample scene provided by the initialization of the project on xcode
 
-# campus
+### campus
 Description: Simple scene - experimentation with placing objects in the scene and in relation to eachother. 
 Experimentation with scene lighting.
