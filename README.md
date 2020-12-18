@@ -17,4 +17,4 @@ Description: Simple scene - experimentation with placing objects in the scene an
 Experimentation with scene lighting.
 
 ### tree
-Description: Scene udes for expreimentation with plane detection - app can now detect a plane, add a plane object representing that plane in the camera, and attach a tree object to the center of the plane detected.
+Description: Scene used for expreimentation with plane detection - app can now detect a plane, add a plane object representing that plane in the camera, and attach a tree object to the center of the plane detected.
